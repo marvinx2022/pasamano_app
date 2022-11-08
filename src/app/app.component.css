@@ -1,3 +1,21 @@
 p {
   font-family: Lato;
 }
+
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: center;
+  font-style: italic;
+}
+
+footer.a {
+  text-align: center;
+}
+
+
+div.c {
+  text-align: right;
+}
